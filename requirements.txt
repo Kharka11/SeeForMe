@@ -1,0 +1,8 @@
+Django>=4.2
+opencv-python
+torch>=1.13.0
+torchvision
+ultralytics
+pyttsx3
+numpy
+pillow
